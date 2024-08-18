@@ -1,5 +1,5 @@
 # Medicinal Plants
-[!Banner](output/landing-page.png)
+[!Banner](https://raw.githubusercontent.com/Navin82005/MedicinalPlants/main/output/landing-page.png)
 ## Introduction
 
 A full-stack website with data of medicinal plant database. It is fully designed using html + styles and php for backend.
