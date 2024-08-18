@@ -31,4 +31,3 @@ Thank you for checking out on **மூலிகை வனம் - The Medicinal 
 
 ##
 Get your own color pallate at : [Coolors.Co](https://coolors.co/?ref=6559c82241a7a6000bf5e09a)
-
